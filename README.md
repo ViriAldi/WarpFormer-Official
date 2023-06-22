@@ -4,7 +4,7 @@
 
 ## [Paper](arxiv) | [Project Page](projectpage) | [Slides](slides)
 
-
+![CVPR2023 Poster](media/poster.png)
 
 Paper accepted to **CVPR 2023 Holistic Video Understanding workshop**: [OpenReview](https://openaccess.thecvf.com/content/CVPR2023W/LSHVU/html/Fedynyak_Global_Motion_Understanding_in_Large-Scale_Video_Object_Segmentation_CVPRW_2023_paper.html)
 
